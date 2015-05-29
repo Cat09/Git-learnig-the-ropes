@@ -2,7 +2,7 @@
 
 This is a file..
 
-it has a name, it says, read me
+it has a name, it says, read me.
 if you read it, you will find, 
 nothing at all
 
